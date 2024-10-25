@@ -3,7 +3,7 @@ import Hero from './Hero.jsx'
 import Stats from './Stats.jsx'
 import Business from './Business.jsx'
 import Billing from './Billing.jsx'
-import CarDeal from './CarDeal.jsx'
+import CardDeal from './CardDeal.jsx'
 import Testimonial from './Testimonial.jsx'
 import Clients from './Clients.jsx'
 import CTA from './CTA.jsx'
@@ -16,7 +16,7 @@ export {
     Stats,
     Business,
     Billing,
-    CarDeal ,
+    CardDeal ,
     Testimonial,
     Clients,
     CTA,
