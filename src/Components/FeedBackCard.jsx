@@ -1,8 +1,8 @@
-import styles, {layout} from '../style'
+import styles from '../style'
 import {quotes} from '../assets'
 
 const FeedBackCard = ({content, name, title, img}) => (
-  <div className='flex flex-wrap flex-row rounded-[20px] py-12 px-10 bg-black-gradient 
+  <div className='flex flex-wrap  flex-row rounded-[20px] py-12 px-10 bg-black-gradient 
     max-w-[370px] md:mr-10 sm:mr-5 mr-0 my-5  feedback-card'>
     <img src={quotes} alt="quotes" className='w-[42px] h-[27px]'/>
     <p className={`mt-5 ${styles.paragraph}`}>
